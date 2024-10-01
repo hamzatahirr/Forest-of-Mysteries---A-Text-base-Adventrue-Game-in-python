@@ -1,0 +1,21 @@
+Contribution to game
+
+As part of the development team for 'The Mysterious Castle Adventure,' I focused on the game's structure and interactivity. My contributions include:
+
+1. **map.py**:
+   - Designed and implemented the overall game map, defining key locations, rooms, and pathways.
+   - Created a visual representation of the castle layout, facilitating player navigation and exploration.
+
+2. **riddles.py**:
+   - Developed a series of engaging riddles and puzzles that players must solve to progress in the game.
+   - Ensured that the riddles align with the theme of the castle, enhancing the immersive experience.
+
+3. **examined_areas.py**:
+   - Programmed the functionality for players to examine different areas within the game, providing rich descriptions and interactive elements.
+   - Implemented logic to allow players to discover hidden items or clues when examining specific locations.
+
+4. **player.py** (contributions):
+   - A little bit contribution in player.py
+   - Collaborated with teammates to enhance the overall player experience and ensure seamless gameplay.
+
+Overall, my contributions focused on creating a solid foundation for the game's structure while ensuring an engaging and interactive experience for players.
