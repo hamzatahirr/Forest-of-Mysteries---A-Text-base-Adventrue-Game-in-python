@@ -1,0 +1,1 @@
+I have created this player file containing the player class. It includes all the commands of the player movement. 
